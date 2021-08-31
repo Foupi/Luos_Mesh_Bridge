@@ -1,0 +1,6 @@
+[submodule "resources/containers"]
+	path = resources/containers
+	url = git@github.com:Foupi/Luos_Examples_NRF.git
+[submodule "resources/luos_lib"]
+	path = resources/luos_lib
+	url = git@github.com:Foupi/Luos_Package_NRF.git

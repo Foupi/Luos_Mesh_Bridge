@@ -1,0 +1,15 @@
+{"detection":{}}
+
+{"containers":{"led_toggler":{"io_state":true}}}
+{"containers":{"led_toggler":{"io_state":false}}}
+
+{"containers":{"mesh_bridge":{"ext_rtb":{}}}}
+
+{"containers":{"led_toggler1":{"io_state":true}}}
+{"containers":{"led_toggler1":{"io_state":false}}}
+
+{"containers":{"led_toggler2":{"io_state":true}}}
+{"containers":{"led_toggler2":{"io_state":false}}}
+
+{"containers":{"led_toggler3":{"io_state":true}}}
+{"containers":{"led_toggler3":{"io_state":false}}}
